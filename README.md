@@ -12,3 +12,4 @@ Requirements: Recent version of Node.js
 - Build into an actual data structure. Right now there's just logging for output.
 - Increase robustness when dealing with anchors.
 - Find the right pattern for the indended headings/labels for nested lists.
+- If there's encouragement and continued interest; I want to add test suites to this.
