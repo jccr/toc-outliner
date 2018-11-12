@@ -1,0 +1,12 @@
+{
+  "name": "toc-outliner",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "dependencies": {
+    "jsdom": "^13.0.0"
+  },
+  "scripts": {
+    "start": "node --experimental-modules toc-test.mjs",
+    "test": "node --experimental-modules index.mjs"
+  }
+}
